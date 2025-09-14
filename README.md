@@ -18,4 +18,9 @@ You can run this notebook directly in Google Colab by clicking the badge below.
     * Paste your actual Gemini API key into the "Value" field.
     * Make sure the "Notebook access" toggle is turned on.
 4.  To save your work, go to `File > Save a copy in Drive`.
-5.  Run the cells to see the code in action!
+5.  **In Google Co-Lab**
+    * Navigate to the top menu and click on Runtime.
+    * From the dropdown menu, select Change runtime type.
+    * In the pop-up window, under the Hardware accelerator dropdown, choose GPU.
+    * Click Save.
+6.  Run the cells to see the code in action!
